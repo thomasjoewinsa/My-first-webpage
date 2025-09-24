@@ -1,0 +1,55 @@
+.container{
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    
+
+}
+.one{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.two__img,.three__img,.four__img,.five__img{
+    height: 300px;
+    width: 300px;
+    
+}
+table td {
+  padding: 5px 10px;
+  vertical-align: middle;
+}
+input {
+  width: 200px;
+  padding: 5px;
+}
+.six{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+ table {
+      margin: 0 auto;
+      border-collapse: collapse;
+    }
+    td {
+      padding: 8px 12px;
+    }
+.six__button{
+    background-color: yellow;
+    color:black;
+    padding-left: 200px;
+    padding-right: 200px;
+}   
+.two,.three,.four,.five{
+   border:1px solid black ;
+   padding: 20px;
+    margin: 10px;
+   
+   
+   
+}
+.two__command,.three__command,.four__command,.five__command{
+  background-color: black;
+  color:white; 
+}
