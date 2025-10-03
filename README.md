@@ -2,9 +2,9 @@
 I have successfully created my first webpage using HTML and CSS. This project allowed me to learn the basics of structuring a webpage using HTML and styling it with CSS. I designed a simple layout that includes headings, paragraphs, images, and links, and applied various styles such as colors, fonts, and spacing to enhance its appearance. It was a great hands-on experience that helped me understand how web pages are built and how design and functionality come together on the front end. I'm excited to continue learning and improving my web development skills.
 
 ## How to view
-html:"C:\Users\prabh\Desktop\project1\Food.html"
+html: C:\Users\prabh\Desktop\project1\Food.html
 
-css:"C:\Users\prabh\Desktop\project1\style.css"
+css: C:\Users\prabh\Desktop\project1\style.css
 
 ## Build by
 
